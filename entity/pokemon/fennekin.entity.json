@@ -39,10 +39,10 @@
 			"animations": {
 				"default_ground_idle": "animation.fennekin.ground_idle",
 				"default_air_idle": "animation.fennekin.ground_idle",
-				"default_water_idle": "animation.fennekin.ground_idle",
+				"default_water_idle": "animation.fennekin.water_idle",
 				"default_walking": "animation.fennekin.walking",
 				"default_flying": "animation.fennekin.ground_idle",
-				"default_swimming": "animation.fennekin.ground_idle",
+				"default_swimming": "animation.fennekin.swimming",
 				"default_sleeping": "animation.fennekin.sleeping",
 				"look_at_target": "animation.pokemon.look_at_target",
 				"attack": "animation.fennekin.attack",
