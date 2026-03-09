@@ -12,7 +12,9 @@
 				"default": "textures/entity/pokemon/mewtwo/mewtwo.png",
 				"shiny_default": "textures/entity/pokemon/mewtwo/shiny_mewtwo.png",
 				"shadow": "textures/entity/pokemon/mewtwo/mewtwo_shadow.png",
-				"armored": "textures/entity/pokemon/mewtwo/mewtwo_armored.png"
+				"armored": "textures/entity/pokemon/mewtwo/mewtwo_armored.png",
+				"bnw": "textures/entity/pokemon/mewtwo/mewtwo_bnw.png",
+				"shiny_bnw": "textures/entity/pokemon/mewtwo/shiny_mewtwo_bnw.png"
 			},
 			"scripts": {
 				"scale": "q.property('pokeb:scale')",

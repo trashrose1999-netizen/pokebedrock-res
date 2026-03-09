@@ -7251,6 +7251,42 @@
     },
     "meowscarada_valentine": {
       "textures": "textures/sprites/default/meowscarada_valentine.png"
+    },
+    "sableyemega_sculk": {
+      "textures": "textures/sprites/default/sableyemega_sculk.png"
+    },
+    "mewtwo_bnw": {
+      "textures": "textures/sprites/default/mewtwo_bnw.png"
+    },
+    "rillaboom_broly": {
+      "textures": "textures/sprites/default/rillaboom_broly.png"
+    },
+    "ironvaliant_ichigo": {
+      "textures": "textures/sprites/default/ironvaliant_ichigo.png"
+    },
+    "floetteeternal_pbranni": {
+      "textures": "textures/sprites/default/floetteeternal_pbranni.png"
+    },
+    "dragapult_pbranni": {
+      "textures": "textures/sprites/default/dragapult_pbranni.png"
+    },
+    "rayquaza_pbranni": {
+      "textures": "textures/sprites/default/rayquaza_pbranni.png"
+    },
+    "garganacl_pbranni": {
+      "textures": "textures/sprites/default/garganacl_pbranni.png"
+    },
+    "gardevoir_pbranni": {
+      "textures": "textures/sprites/default/gardevoir_pbranni.png"
+    },
+    "gardevoirmega_pbranni": {
+      "textures": "textures/sprites/default/gardevoirmega_pbranni.png"
+    },
+    "rayquazamega_pbranni": {
+      "textures": "textures/sprites/default/rayquazamega_pbranni.png"
+    },
+    "keldeo_pbranni": {
+      "textures": "textures/sprites/default/keldeo_pbranni.png"
     }
   }
 }

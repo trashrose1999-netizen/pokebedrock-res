@@ -12,7 +12,9 @@
 				"default": "textures/entity/pokemon/rillaboom/rillaboom.png",
 				"shiny_default": "textures/entity/pokemon/rillaboom/shiny_rillaboom.png",
 				"christmas": "textures/entity/pokemon/rillaboom/rillaboom_christmas.png",
-				"shiny_christmas": "textures/entity/pokemon/rillaboom/shiny_rillaboom_christmas.png"
+				"shiny_christmas": "textures/entity/pokemon/rillaboom/shiny_rillaboom_christmas.png",
+				"broly": "textures/entity/pokemon/rillaboom/rillaboom_broly.png",
+				"shiny_broly": "textures/entity/pokemon/rillaboom/shiny_rillaboom_broly.png"
 			},
 			"scripts": {
 				"scale": "q.property('pokeb:scale')",
@@ -65,7 +67,8 @@
 			},
 			"geometry": {
 				"default": "geometry.rillaboom",
-				"christmas": "geometry.rillaboom_christmas"
+				"christmas": "geometry.rillaboom_christmas",
+				"broly": "geometry.rillaboom_broly"
 			}
 		}
 	}

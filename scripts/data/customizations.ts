@@ -281,6 +281,7 @@ export const PokemonCustomizations: Partial<{
     skins: {
       shadow: ["texture"],
       armored: ["texture"],
+      bnw: ["texture", "shiny_texture"],
     },
   },
   mewtwomegax: {
@@ -296,7 +297,7 @@ export const PokemonCustomizations: Partial<{
 
   meowscarada: {
     skins: {
-      valentine: ["model", "texture"],
+      valentine: ["model", "texture", "shiny_texture"],
     },
   },
 
@@ -612,17 +613,13 @@ export const PokemonCustomizations: Partial<{
 
   gardevoir: {
     skins: {
-      christmas: [
-        "model",
-        "texture",
-        "animation_ground_idle",
-        "animation_water_idle",
-        "animation_walking",
-        "animation_swimming",
-        "animation_attack",
-        "animation_faint",
-        "animation_sleeping",
-      ],
+      pbranni: ["model", "texture", "shiny_texture", "animations"],
+    },
+  },
+
+  gardevoirmega: {
+    skins: {
+      pbranni: ["model", "texture", "shiny_texture", "animations"],
     },
   },
 
@@ -658,6 +655,24 @@ export const PokemonCustomizations: Partial<{
   sableye: {
     skins: {
       sculk: ["model", "texture", "shiny_texture"],
+    },
+  },
+
+  sableyemega: {
+    skins: {
+      sculk: ["model", "texture", "shiny_texture", "animations"],
+    },
+  },
+
+  rayquaza: {
+    skins: {
+      pbranni: ["model", "texture", "shiny_texture", "animations"],
+    },
+  },
+
+  rayquazamega: {
+    skins: {
+      pbranni: ["model", "texture", "shiny_texture", "animations"],
     },
   },
 
@@ -702,12 +717,12 @@ export const PokemonCustomizations: Partial<{
 
   /** Female has a larger collar */
   kricketot: {
-    genderDifferences: ["texture"],
+    genderDifferences: ["model", "texture", "shiny_texture"],
   },
 
   /** Female has smaller mustache */
   kricketune: {
-    genderDifferences: ["texture"],
+    genderDifferences: ["model", "texture", "shiny_texture"],
   },
 
   /** Female's head stripe is shorter */
@@ -1027,6 +1042,12 @@ export const PokemonCustomizations: Partial<{
     },
   },
 
+  keldeo: {
+    skins: {
+      pbranni: ["model", "texture", "shiny_texture", "animations"],
+    },
+  },
+
   // ======================== GEN 6 ========================
 
   flabebe: {
@@ -1082,6 +1103,12 @@ export const PokemonCustomizations: Partial<{
   yveltal: {
     skins: {
       christmas: ["model", "texture", "shiny_texture"],
+    },
+  },
+
+  floetteeternal: {
+    skins: {
+      pbranni: ["model", "texture", "shiny_texture", "animations"],
     },
   },
 
@@ -1174,6 +1201,7 @@ export const PokemonCustomizations: Partial<{
   rillaboom: {
     skins: {
       christmas: ["model", "texture", "shiny_texture"],
+      broly: ["model", "texture", "shiny_texture"],
     },
   },
 
@@ -1192,6 +1220,12 @@ export const PokemonCustomizations: Partial<{
   darmanitangalarzen: {
     skins: {
       christmas: ["model", "texture", "shiny_texture", "animations"],
+    },
+  },
+
+  dragapult: {
+    skins: {
+      pbranni: ["model", "texture", "shiny_texture", "animations"],
     },
   },
 
@@ -1252,4 +1286,17 @@ export const PokemonCustomizations: Partial<{
       halloween: ["model", "texture", "shiny_texture", "animations"],
     },
   },
+
+  ironvaliant: {
+    skins: {
+      ichigo: ["model", "texture", "shiny_texture", "animations"],
+    },
+  },
+
+  garganacl: {
+    skins: {
+      pbranni: ["model", "texture", "shiny_texture", "animations"],
+    },
+  },
+
 } as const;

@@ -11,7 +11,8 @@
 				"evo_aura": "textures/entity/evolving",
 				"default": "textures/entity/pokemon/meowscarada/meowscarada.png",
 				"shiny_default": "textures/entity/pokemon/meowscarada/shiny_meowscarada.png",
-				"valentine": "textures/entity/pokemon/meowscarada/meowscarada_valentine.png"
+				"valentine": "textures/entity/pokemon/meowscarada/meowscarada_valentine.png",
+				"shiny_valentine": "textures/entity/pokemon/meowscarada/shiny_meowscarada_valentine.png"
 			},
 			"scripts": {
 				"scale": "q.property('pokeb:scale')",

@@ -39,7 +39,7 @@
 			"animations": {
 				"default_ground_idle": "animation.munchlax.ground_idle",
 				"default_air_idle": "animation.munchlax.ground_idle",
-				"default_water_idle": "animation.munchlax.ground_idle",
+				"default_water_idle": "animation.munchlax.water_idle",
 				"default_walking": "animation.munchlax.walking",
 				"default_flying": "animation.munchlax.ground_idle",
 				"default_swimming": "animation.munchlax.swimming",
