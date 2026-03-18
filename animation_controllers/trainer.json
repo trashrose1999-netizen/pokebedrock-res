@@ -173,6 +173,12 @@
             },
             {
               "valentines_girl_idle": "(query.property('pokeb:skin_index') == 59)"
+            },
+            {
+              "stSlacki_idle": "(query.property('pokeb:skin_index') == 61)"
+            },
+            {
+              "ytMedal_idle": "(query.property('pokeb:skin_index') == 62)"
             }
           ],
           "transitions": [
